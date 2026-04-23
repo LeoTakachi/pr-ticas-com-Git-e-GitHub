@@ -3,5 +3,5 @@ const botao = document.getElementById("btnClick");
 
 // Adiciona evento de clique
 botao.addEventListener("click", function() {
-    alert("Você clicou no botão!");
+    alert("Você clicou no botão, bem vindo!");
 });
